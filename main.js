@@ -31,7 +31,7 @@ myCodeImmersivesObj[`I am exactly this cool`]= `soooooo cool`
 const myself= {}
 
 // Add a `firstName` property and set it to a string.
-
+myself.firstName ='LaToddra'
 
 // Add a `lastName` property and set it to a string.
 
