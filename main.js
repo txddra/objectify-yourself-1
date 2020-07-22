@@ -34,7 +34,7 @@ const myself= {}
 myself.firstName ='LaToddra'
 
 // Add a `lastName` property and set it to a string.
-
+myself.lastName = 'Belton'
 
 // Add a `fullName` property and set it to the name properties put together with a space string in the middle.
 
