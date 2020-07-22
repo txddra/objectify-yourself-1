@@ -37,7 +37,7 @@ myself.firstName ='LaToddra'
 myself.lastName = 'Belton'
 
 // Add a `fullName` property and set it to the name properties put together with a space string in the middle.
-
+myself.fullName = myself.firstName + '  ' + myself.lastName
 
 // Add an `age` property and set it to a number.
 
