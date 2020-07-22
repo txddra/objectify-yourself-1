@@ -25,7 +25,7 @@ myCodeImmersivesObj.cumulativeScore = 50;
 myCodeImmersivesObj.currentScore += myCodeImmersivesObj.cumulativeScore
 
 // Now add a property called `I am exactly this cool` (you'll need bracket notation!) and set it to `soooooo cool`.
-
+myCodeImmersivesObj[`I am exactly this cool`]= `soooooo cool`
 
 // Now make a new EMPTY object that represents yourself.
 
