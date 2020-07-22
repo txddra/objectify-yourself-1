@@ -28,7 +28,7 @@ myCodeImmersivesObj.currentScore += myCodeImmersivesObj.cumulativeScore
 myCodeImmersivesObj[`I am exactly this cool`]= `soooooo cool`
 
 // Now make a new EMPTY object that represents yourself.
-
+const myself= {}
 
 // Add a `firstName` property and set it to a string.
 
