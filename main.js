@@ -19,7 +19,7 @@ myCodeImmersivesObj.currentScore = 3;
 
 
 // Now add a new property called `cumulativeScore` and set it to 50.
-
+myCodeImmersivesObj.cumulateiveScore = 50; 
 
 // Now add your `currentScore` and your `cumulativeScore` and put it back in `cumulativeScore`.
 
