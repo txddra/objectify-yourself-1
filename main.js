@@ -13,16 +13,16 @@ myCodeImmersivesObj.term = 1
 
 // Now add 1 to the value of your object's `term` property and put that new value back in your object's `term`.
 
-myCodeImmersivesObj.term + 1;
+myCodeImmersivesObj.term += 1;
 // Now add a new property called `currentScore` and set it to 3.
 myCodeImmersivesObj.currentScore = 3;
 
 
 // Now add a new property called `cumulativeScore` and set it to 50.
-myCodeImmersivesObj.cumulateiveScore = 50; 
+myCodeImmersivesObj.cumulativeScore = 50; 
 
 // Now add your `currentScore` and your `cumulativeScore` and put it back in `cumulativeScore`.
-
+myCodeImmersivesObj.currentScore += myCodeImmersivesObj.cumulativeScore
 
 // Now add a property called `I am exactly this cool` (you'll need bracket notation!) and set it to `soooooo cool`.
 
